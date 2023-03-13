@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1D7AE812-16AD-405C-A2B2-65088C2652C9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "31D4D476-E96A-4C91-B253-344A57ABEF98"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "nodeSwift/Model/Model.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "readLocalFile(forName:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "31D4D476-E96A-4C91-B253-344A57ABEF98 - efd81f8bcf781df8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "nodeSwift.readLocalFile(forName: Swift.String) -&gt; Swift.Optional&lt;Foundation.Data&gt;"
+                  moduleName = "nodeSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bulat/Desktop/nodeSwift/nodeSwift/Model/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "31D4D476-E96A-4C91-B253-344A57ABEF98 - efd81f8bcf781df8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "nodeSwift.readLocalFile(forName: Swift.String) -&gt; Swift.Optional&lt;Foundation.Data&gt;"
+                  moduleName = "nodeSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bulat/Desktop/nodeSwift/nodeSwift/Model/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "380">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D24FF9EC-FAFB-4D3C-9B77-FB802A63B2C0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "nodeSwift/Model/Model.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "readLocalFile(forName:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "D24FF9EC-FAFB-4D3C-9B77-FB802A63B2C0 - efd81f8bcf782232"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "nodeSwift.readLocalFile(forName: Swift.String) -&gt; Swift.Optional&lt;Foundation.Data&gt;"
+                  moduleName = "nodeSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bulat/Desktop/nodeSwift/nodeSwift/Model/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "1228">
+               </Location>
+               <Location
+                  uuid = "D24FF9EC-FAFB-4D3C-9B77-FB802A63B2C0 - efd81f8bcf782232"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "nodeSwift.readLocalFile(forName: Swift.String) -&gt; Swift.Optional&lt;Foundation.Data&gt;"
+                  moduleName = "nodeSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bulat/Desktop/nodeSwift/nodeSwift/Model/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "1572">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B761911F-797A-482C-BABA-1F4747E000C6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "nodeSwift/Model/Model.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
